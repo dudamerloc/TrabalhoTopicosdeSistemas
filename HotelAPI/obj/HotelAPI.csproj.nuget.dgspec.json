@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\HotelAPI\\HotelAPI\\HotelAPI.csproj": {}
+    "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelApi\\HotelAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\HotelAPI\\HotelAPI\\HotelAPI.csproj": {
+    "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelApi\\HotelAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\HotelAPI\\HotelAPI\\HotelAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelApi\\HotelAPI.csproj",
         "projectName": "HotelAPI",
-        "projectPath": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\HotelAPI\\HotelAPI\\HotelAPI.csproj",
+        "projectPath": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelApi\\HotelAPI.csproj",
         "packagesPath": "C:\\Users\\Manut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\HotelAPI\\HotelAPI\\obj\\",
+        "outputPath": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Manut\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,6 +46,24 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

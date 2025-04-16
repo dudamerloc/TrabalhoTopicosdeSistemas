@@ -1,6 +1,66 @@
-@HotelAPI_HostAddress = http://localhost:5279
+# ========================================
+# Hotel
+# ========================================
 
-GET {{HotelAPI_HostAddress}}/weatherforecast/
+### Obter todos os hóspedes
+GET http://localhost:5279/api/hospedes
 Accept: application/json
 
 ###
+
+### Buscar hóspede pelo ID
+GET http://localhost:5279/api/hospedes/1
+Accept: application/json
+
+###
+
+### Adicionar um novo hóspede
+POST http://localhost:5279/api/hospedes
+Content-Type: application/json
+
+
+{
+    "nome": "Julia",
+    "cpf": "98765432100",
+    "telefone": "41988888888"
+}
+
+
+### Obter todos os quartos
+GET http://localhost:5279/api/quartos
+Accept: application/json
+
+###
+
+### Criar uma nova reserva
+POST http://localhost:5279/api/reservas
+Content-Type: application/json
+
+{
+  "hospedeId": 1,
+  "quartoId": 2,
+  "dataEntrada": "2025-04-20T14:00:00",
+  "dataSaida": "2025-04-23T12:00:00"
+}
+
+### Atualizar dados do hóspede
+PUT http://localhost:5279/api/hospedes/1
+Content-Type: application/json
+
+{
+  "nome": "Maria Eduarda Merlo",
+  "cpf": "12345678900",
+  "telefone": "41998888888"
+}
+
+### Remover hóspede pelo ID
+DELETE http://localhost:5279/api/hospedes/1
+Accept: application/json
+
+
+### Remover reserva pelo ID
+DELETE http://localhost:5279/api/reservas/2
+Accept: application/json
+
+
+
