@@ -200,3 +200,4 @@ C:\Users\Manut\OneDrive\Área de Trabalho\Duda\A1Topicos\TrabalhoTopicosdeSistem
 C:\Users\Manut\OneDrive\Área de Trabalho\Duda\A1Topicos\TrabalhoTopicosdeSistemas\Hotel\HotelApi\obj\Debug\net8.0\HotelAPI.pdb
 C:\Users\Manut\OneDrive\Área de Trabalho\Duda\A1Topicos\TrabalhoTopicosdeSistemas\Hotel\HotelApi\obj\Debug\net8.0\HotelAPI.genruntimeconfig.cache
 C:\Users\Manut\OneDrive\Área de Trabalho\Duda\A1Topicos\TrabalhoTopicosdeSistemas\Hotel\HotelApi\obj\Debug\net8.0\ref\HotelAPI.dll
+C:\Users\Manut\OneDrive\Área de Trabalho\Duda\A1Topicos\TrabalhoTopicosdeSistemas\Hotel\HotelApi\obj\Debug\net8.0\HotelAPI.sourcelink.json
