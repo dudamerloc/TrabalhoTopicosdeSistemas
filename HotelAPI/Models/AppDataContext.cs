@@ -12,5 +12,8 @@ namespace HotelApi.Models
         public DbSet<Hospede> Hospedes { get; set; }
         public DbSet<Quarto> Quartos { get; set; }
         public DbSet<Reserva> Reservas { get; set; }
+        public DbSet<Bebida> Cardapio { get; set; }
+
+
     }
 }
