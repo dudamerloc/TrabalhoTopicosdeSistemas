@@ -5496,19 +5496,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Manut\\.nuget\\packages\\": {}
+    "C:\\Users\\Pedro Valeriano\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelAPI\\HotelAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro Valeriano\\TrabalhoTopicosdeSistemas\\HotelAPI\\HotelAPI.csproj",
       "projectName": "HotelAPI",
-      "projectPath": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelAPI\\HotelAPI.csproj",
-      "packagesPath": "C:\\Users\\Manut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manut\\OneDrive\\Área de Trabalho\\Duda\\A1Topicos\\TrabalhoTopicosdeSistemas\\Hotel\\HotelAPI\\obj\\",
+      "projectPath": "C:\\Users\\Pedro Valeriano\\TrabalhoTopicosdeSistemas\\HotelAPI\\HotelAPI.csproj",
+      "packagesPath": "C:\\Users\\Pedro Valeriano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pedro Valeriano\\TrabalhoTopicosdeSistemas\\HotelAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Manut\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pedro Valeriano\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
